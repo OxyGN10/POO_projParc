@@ -4,6 +4,10 @@ import ifba.esboco.classes.Projeto;
 import java.time.LocalDate;
 import java.time.Month;
 
+/*
+    Este código foi feito para realizar o teste da lógica das classes
+*/
+
 public class Esboco 
 {
     public static void main(String[] args) 
